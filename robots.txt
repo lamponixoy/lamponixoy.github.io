@@ -6,4 +6,4 @@ Disallow: /404.html
 Disallow: /*?page=
 
 # Sitemap location
-Sitemap: https://lämpönix.fi/sitemap.xml
+Sitemap: https://lamponix.fi/sitemap.xml
