@@ -1699,19 +1699,7 @@ strong {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
-#w-node-_756d2620-3a29-5991-2d05-ae80364bf57f-20142d9d {
-  align-self: center;
-}
-
-#Yritys.w-node-c83cdef2-e1cb-9a26-284d-3fb7f548802c-20142d9d, #Sposti.w-node-_756d2620-3a29-5991-2d05-ae80364bf586-20142d9d, #Puhelinnumero-3.w-node-_85191522-6539-bb46-3ea7-b5ba9a32783f-20142d9d {
-  grid-area: span 1 / span 1 / span 1 / span 1;
-}
-
-#Palvelu.w-node-f7abbfba-7387-16c2-900e-12dc2e9b8d6f-20142d9d, #Kuinka-sait-tietaa-meista.w-node-_759ec0de-aea0-2813-ae78-71bfba794a34-20142d9d, #Viesti.w-node-_756d2620-3a29-5991-2d05-ae80364bf587-20142d9d {
-  grid-area: span 1 / span 2 / span 1 / span 2;
-}
-
-#w-node-_756d2620-3a29-5991-2d05-ae80364bf57f-20142d9e {
+#w-node-_756d2620-3a29-5991-2d05-ae80364bf57f-20142d9d, #w-node-_756d2620-3a29-5991-2d05-ae80364bf57f-20142d9e {
   align-self: center;
 }
 
@@ -1728,14 +1716,6 @@ strong {
 @media screen and (max-width: 479px) {
   #w-node-_5a0682cc-13d7-a0d0-e8ef-1b14fb28b78a-662b3a90 {
     grid-column: 1 / 2;
-  }
-
-  #Nimi.w-node-_756d2620-3a29-5991-2d05-ae80364bf585-20142d9d {
-    grid-area: span 1 / span 2 / span 1 / span 2;
-  }
-
-  #Yritys.w-node-c83cdef2-e1cb-9a26-284d-3fb7f548802c-20142d9d, #Sposti.w-node-_756d2620-3a29-5991-2d05-ae80364bf586-20142d9d, #Puhelinnumero-3.w-node-_85191522-6539-bb46-3ea7-b5ba9a32783f-20142d9d {
-    grid-column: span 2 / span 2;
   }
 }
 
