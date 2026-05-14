@@ -623,13 +623,13 @@ strong {
 }
 
 .footer-field-2 {
+  width: 200px;
+  height: 52px;
   color: var(--black);
   background-color: #fff;
   border: 1px #000;
   border-radius: 3px;
   flex: 1;
-  width: 200px;
-  height: 52px;
   margin-bottom: 8px;
   margin-right: 8px;
   padding: 10px 16px 10px 24px;
@@ -784,9 +784,9 @@ strong {
 }
 
 .contact-icon-2 {
-  color: var(--accent);
   width: 30px;
   height: 30px;
+  color: var(--accent);
 }
 
 .contact-grid-2 {
@@ -1146,6 +1146,12 @@ strong {
 
 .instagram:hover {
   transform: scale(1.1);
+}
+
+.instagram.tiktok {
+  background-color: #040404;
+  background-image: none;
+  right: 194px;
 }
 
 .code-embed {
